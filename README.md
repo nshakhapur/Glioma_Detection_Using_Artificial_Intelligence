@@ -48,3 +48,6 @@ For any questions or feedback, please contact the Authors:
 - **Somya Mishra** - [somya.mishra2021@vitstudent.ac.in](mailto:somya.mishra2021@vitstudent.ac.in)
   GitHub: [SomyaMishra2705](https://github.com/SomyaMishra2705)
 
+- **Dr. Sathya k** - [sathya.k@vit.ac.in](mailto:sathya.k@vit.ac.in)
+ 
+
