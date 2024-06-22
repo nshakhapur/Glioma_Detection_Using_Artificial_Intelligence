@@ -43,7 +43,7 @@ For any questions or feedback, please contact the Authors:
   GitHub: [nshakhapur](https://github.com/nshakhapur)
 
 - **Sakshi Lele** - [sakshi.lele2021@vitstudent.ac.in](mailto:sakshi.lele2021@vitstudent.ac.in)
-  GitHub: [your_username](https://github.com/your_username)
+  GitHub: [Sakshi-lele](https://github.com/Sakshi-lele)
 
 - **Somya Mishra** - [somya.mishra2021@vitstudent.ac.in](mailto:somya.mishra2021@vitstudent.ac.in)
   GitHub: [SomyaMishra2705](https://github.com/SomyaMishra2705)
