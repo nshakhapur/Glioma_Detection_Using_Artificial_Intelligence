@@ -1,7 +1,8 @@
 
 # Glioma Detection Using Artificial Intelligence
 
-![glioma](https://github.com/nshakhapur/Glioma_Detection_Using_Artificial_Intelligence/assets/96770503/eada72f1-f86d-4e44-9d85-7171e1d4820f)
+![glioma Medium](https://github.com/nshakhapur/Glioma_Detection_Using_Artificial_Intelligence/assets/96770503/34713693-fcda-41a3-bda9-cc3d71e1d699)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
