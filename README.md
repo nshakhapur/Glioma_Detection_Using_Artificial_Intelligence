@@ -40,11 +40,11 @@ This project is licensed under the MIT License. See the [LICENSE](path_to_licens
 ## Contact
 For any questions or feedback, please contact the Authors:
 - **Nidhi Shakhapur** - [nidhi.shakhapur2021@vitstudent. ac.in](mailto:nidhi.shakhapur2021@vitstudent.ac.in)
-- GitHub: [nshakhapur](https://github.com/nshakhapur)
+  GitHub: [nshakhapur](https://github.com/nshakhapur)
 
 - **Sakshi Lele** - [sakshi.lele2021@vitstudent.ac.in](mailto:sakshi.lele2021@vitstudent.ac.in)
-- GitHub: [your_username](https://github.com/your_username)
+  GitHub: [your_username](https://github.com/your_username)
 
 - **Somya Mishra** - [somya.mishra2021@vitstudent.ac.in](mailto:somya.mishra2021@vitstudent.ac.in)
-- GitHub: [SomyaMishra2705](https://github.com/SomyaMishra2705)
+  GitHub: [SomyaMishra2705](https://github.com/SomyaMishra2705)
 
